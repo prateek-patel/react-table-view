@@ -1,0 +1,43 @@
+[
+    {
+       "id":1,
+       "username":"Prateek Patel",
+       "email":"abc@gmail.com",
+       "place":"Indore",
+       "company":"Synechron"
+    },
+    {
+       "id":2,
+       "username":"Rahul Tiwari",
+       "email":"abc@gmail.com",
+       "place":"Indore",
+       "company":"SBI"
+    },
+    {
+       "id":3,
+       "username":"Kuldeep Yadav",
+       "email":"abc@gmail.com",
+       "place":"Mumbai",
+       "company":"Biba"
+    },
+    {
+       "id":4,
+       "username":"Priya",
+       "email":"abc@gmail.com",
+       "place":"Udaipur",
+       "company":"Air BnB"
+    },
+    {
+       "id":5,
+       "username":"Ritu",
+       "email":"abc@gmail.com",
+       "place":"Bangalore",
+       "company":"FTI"
+    },
+    {
+      "email": "pg@gmail.com",
+      "username": "prateek",
+      "location": "Indore",
+      "company": "synechron"
+    }
+ ]
